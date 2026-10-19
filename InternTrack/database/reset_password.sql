@@ -1,0 +1,3 @@
+-- Password demo pada interntrack.sql menggunakan hash contoh.
+-- Jika login gagal, jalankan setup_admin.php sekali, lalu HAPUS file tersebut.
+-- Lihat petunjuk README.md.
